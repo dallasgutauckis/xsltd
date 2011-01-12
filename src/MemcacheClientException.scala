@@ -1,0 +1,1 @@
+class MemcacheClientException extends Exception
